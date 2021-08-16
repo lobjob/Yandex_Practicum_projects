@@ -47,5 +47,5 @@
 - pandas
 - numpy
 - re
-- metplotlib
+- matplotlib
 - seaborn
