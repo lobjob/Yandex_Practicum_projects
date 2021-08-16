@@ -9,7 +9,7 @@
 
 ***Содержание:***
 - [Проект по изучению надёжности заёмщиков в банке](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/borrower%20reliability%20project "Перейти в папку проекта")
-- проект 2
+- [Проект по исследованию продаж квартир](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/apartment%20sales%20research "Перейти в папку проекта")
 - проект 3
 - проект 4
 - проект 5
