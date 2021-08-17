@@ -11,7 +11,7 @@
 - [Проект по изучению надёжности заёмщиков в банке](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/borrower%20reliability%20project "Перейти в папку проекта")
 - [Проект по исследованию продаж квартир](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/apartment%20sales%20research "Перейти в папку проекта")
 - [Проект по определению перспективного тарифа для телеком компании](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/tariffs%20of%20a%20telecom%20company%20analysis "Перейти в папку проекта")
-- проект 4
+- [Проект по исследованию продаж консольных игр](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/Games%20sales%20research "Перейти в папку проекта")
 - проект 5
 - проект 6
 - проект 7
