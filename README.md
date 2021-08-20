@@ -14,7 +14,7 @@
 - [Проект по исследованию продаж консольных игр](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/games%20sales%20research "Перейти в папку проекта")
 - [Проект по рекомендации тарифов](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/tariffs%20recommendations "Перейти в папку проекта")
 - [Проект по прогнозированию оттока клиентов](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/customer%20churn "Перейти в папку проекта")
-- проект 7
+- [Проект по поиску перспективного месторождения](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/choosing%20a%20location%20for%20a%20well "Перейти в папку проекта")
 - проект 8
 - проект 9
 - [Проект по поиску токсичных комментариев](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/toxic%20comments%20project "Перейти в папку проекта")
