@@ -16,7 +16,7 @@
 - [Проект по прогнозированию оттока клиентов](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/customer%20churn "Перейти в папку проекта")
 - [Проект по поиску перспективного месторождения](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/choosing%20a%20location%20for%20a%20well "Перейти в папку проекта")
 - [Проект по восстановлению золота из руды](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/recovery%20of%20gold%20from%20ore "Перейти в папку проекта")
-- проект 9
+- [Проект по защите персональных данных клиентов страховой компании](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/protection%20of%20personal%20data%20of%20clients "Перейти в папку проекта")
 - проект 10
 - проект 11
 - [Проект по поиску токсичных комментариев](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/toxic%20comments%20project "Перейти в папку проекта")
