@@ -18,9 +18,9 @@
 - [Проект по определению стоимости автомобилей](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/determining%20the%20cost%20of%20cars "Перейти в папку проекта")
 - [Проект по прогнозированию заказов такси](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/predicting%20taxi%20orders "Перейти в папку проекта")
 - [Проект по поиску токсичных комментариев](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/toxic%20comments%20project "Перейти в папку проекта")
-- проект 13
+- [Проект по изучению спроса на рейсы авиакомпании](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/demand%20for%20airline%20flights "Перейти в папку проекта")
 - проект 14
-- выпускной проект
+- выпускной проект (в данный момент находится в стадии выполнения)
 
 Некоторые проекты могут показаться немного банальными. Это связанно с обучением и освоением навыков, которые в процессе обучения оттачивались, совершенствовались и дополнялись.
 
