@@ -20,7 +20,7 @@
 - [Проект по поиску токсичных комментариев](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/toxic%20comments%20project "Перейти в папку проекта")
 - [Проект по изучению спроса на рейсы авиакомпании](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/demand%20for%20airline%20flights "Перейти в папку проекта")
 - [Проект по определению возраста покупателей](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/determining%20the%20age%20of%20buyers "Перейти в папку проекта")
-- выпускной проект (в данный момент находится в стадии выполнения)
+- [Выпускной проект по предсказанию температуры стали](https://github.com/lobjob/Yandex_Practicum_projects/tree/main/projects/predict%20temperature%20of%20steel "Перейти в папку проекта")
 
 Некоторые проекты могут показаться немного банальными. Это связанно с обучением и освоением навыков, которые в процессе обучения оттачивались, совершенствовались и дополнялись.
 
