@@ -26,5 +26,5 @@
 
 Желаю приятного просмотра!
 
-Мой email для связи: lobjob@rambler.ru
+Мой email для связи: lobjob@rambler.ru<br>
 Telegram: @lob_job
