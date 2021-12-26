@@ -26,5 +26,5 @@
 
 Желаю приятного просмотра!
 
-Мой email для связи: lobjob@rambler.ru<br>
+Мой email для связи: dmitry.kolach@yandex.ru<br>
 Telegram: @lob_job
